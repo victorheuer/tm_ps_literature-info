@@ -12,6 +12,8 @@ Some relevant information about the literature in the spreadsheet:
 
 4. Information extracted: objectives, problems, techniques/methods/technologies, application in public security, keywords, indications about further research, authors, title, kind of work (journal/conference/book), publication year, journal/conference/book name.
 
+### Some observations
+
 Maybe the cells in the spreadsheet are not showing all the information they contain. If this happens, just expand the cell. 
 
 ## More Details abou the Systematic Literature Review
@@ -48,10 +50,5 @@ Universidade Federal de Pernambuco (Brazil)
 *Associate Professor*
 
 Departamento de Engenharia de Produção, Recife - Pernambuco
-
-Universidade Federal de Pernambuco (Brazil)
-
-
-
 
 Universidade Federal de Pernambuco (Brazil)
