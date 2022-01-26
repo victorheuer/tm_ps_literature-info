@@ -18,7 +18,12 @@ Maybe the cells in the spreadsheet are not showing all the information they cont
 
 ## More Details abou the Systematic Literature Review
 
-For more details on the systematic literature review, interested parties may consult the material published in the form of an article.
+For more details on the systematic literature review, interested parties may consult the material published in the form of an article, available in SciELO Preprints:
+
+Exploring Text Mining and Analytics for Applications in Public Security: An in-depth dive into a systematic literature review. 
+[(https://doi.org/10.1590/SciELOPreprints.3518)](https://doi.org/10.1590/SciELOPreprints.3518)
+
+Full references to all literature on the available spreadsheet can be found in this article.
 
 Below is information about the authorship of the survey, with our emails.
 
